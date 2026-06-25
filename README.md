@@ -82,4 +82,4 @@ El servidor web se levantará localmente. Abre tu navegador y accede a:
 
 ---
 
-<!-- El trabajo fue realizado con la asistencia de Inteligencia Artificial (IA) -->
+La interfaz grafica fue realizado con la asistencia de Inteligencia Artificial (HTML/CSS).
